@@ -1,0 +1,47 @@
+#container{
+    text-align: center;
+    /* margin: auto; */
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#mylabel{
+    font-size: 1.5em;
+}
+#mybutton{cursor: pointer;
+    background-color: hsl(228, 98%, 76%);
+    font-size: 1.6em;
+    border-radius: 3px;
+    border: .001px solid black;
+    color: white;
+}
+#mybutton:hover{
+    background-color:rgb(78, 116, 240);
+    /* font-size: 1.6em; */
+}
+#mybutton:active{
+    background-color:rgb(13, 66, 239);
+    /* font-size: 1.6em; */
+}
+#myinput{    font-size: 1.4em;
+    text-align: center;
+    width: 150px;
+}
+#myresult{
+    text-align: center;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#myimages{ display: block;
+    margin: auto;
+    text-align: center;
+    
+
+}
+#myimages img{border-radius: 50px;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+   
+    /* margin: auto; */
+}
